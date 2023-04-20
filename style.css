@@ -4,7 +4,7 @@
     font-family: Balsamiq Sans, cursive;
 }
 
-/* NAV BAR */
+/* NAV-BAR */
 .nav {
     width: 68%;
     height: 120px;
@@ -51,7 +51,7 @@
     display: flex;
 }
 
-/* CONTAINER 1 */
+/* CONTAINER-1 */
 .container {
     width: 50%;
     height: 800px;
@@ -124,7 +124,7 @@
 }
 
 
-/* CONTAINER 2 */
+/* CONTAINER-2 */
 .container-2 {
     width: 40%;
     height: 800px;
